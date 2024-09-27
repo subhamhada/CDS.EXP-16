@@ -85,4 +85,10 @@ int main() {
 
 ## Outputs :
 ### 1.
+![Screenshot 2024-09-27 114546](https://github.com/user-attachments/assets/1b902c1f-bff9-41ef-8778-91c481859112)
+
 ### 2.
+![Screenshot 2024-09-27 114622](https://github.com/user-attachments/assets/544509a9-f4cc-4e23-b673-5bc71769a932)
+
+## Conclusion
+Exception handling in C++ enhances program robustness by allowing developers to manage unexpected errors effectively. Using try, catch, and throw, we can create applications that handle runtime issues gracefully, improving user experience and stability.
